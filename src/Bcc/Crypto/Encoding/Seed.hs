@@ -16,7 +16,7 @@
 --
 -- * we use 'PBKDF2' with 'HMAC 512' to generate the OTP.
 -- * we use 10000 iteration for the PBKDF2
--- * we use the 4 bytes "GodXCoin" for the CONSTANT
+-- * we use the 4 bytes "The Blockchain Co." for the CONSTANT
 --
 
 {-# LANGUAGE Rank2Types           #-}
