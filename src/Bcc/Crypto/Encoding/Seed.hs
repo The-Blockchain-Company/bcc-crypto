@@ -1,7 +1,7 @@
 -- |
 -- Module      : Bcc.Crypto.Encoding.Seed
 -- Description : tools relating to Paper Wallet
--- Maintainer  : nicolas.diprima@bcccoin.io
+-- Maintainer  : rmourey_jr@blockchain-company.io
 --
 -- implementation of the proposal specification for Paper Wallet
 -- see https://github.com/The-Blockchain-Company/bcc-specs/blob/master/proposals/0001-PaperWallet.md
