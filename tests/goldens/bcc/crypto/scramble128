@@ -9,7 +9,7 @@ shielded_input = "abandon abandon abandon abandon abandon about twelve early chr
 TestVector
 input = "fold parrot feature figure stay blanket woman grain huge orphan key exile"
 iv = "0001020304050607"
-passphrase = "Bcc Ada"
+passphrase = "Bcc Bcc"
 shielded_input = "abandon amount liar amount expire advance afraid evil author zero dumb elite cover few mirror goat remain vapor"
 
 # Test Vector 3
