@@ -141,3 +141,4 @@ benchmark bcc-crypto-bench
 source-repository head
   type:     git
   location: https://github.com/The-Blockchain-Company/bcc-crypto
+  tag: ce2f7994556490b169914f8d818fb9ef6149211f
