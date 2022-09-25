@@ -1,7 +1,7 @@
 -- |
 -- Module      : Bcc.Crypto.Wallet
 -- Description : HD Wallet routines
--- Maintainer  : vincent@typed.io
+-- Maintainer  : rmourey_jr@blockchain-company.io
 --
 -- This provides similar functionality to BIP32 but using
 -- Ed25519 arithmetic instead of P256K1 arithmethic.
